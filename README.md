@@ -1,4 +1,5 @@
 # smart_punct
+> https://github.com/loganoxo/smart_punct/
 
 ## 说明  
 - 作用: 在中文输入法下，自动将中文标点替换为英文标点

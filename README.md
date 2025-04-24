@@ -32,7 +32,8 @@ brew install hammerspoon  #默认会创建 /opt/homebrew/bin/hs
 - 用 OnlySwitch 添加一个菜单开关, 体验感会更好
 
 ### 效果: 
-<img width="633" alt="SCR-20250424-sohk" src="https://github.com/user-attachments/assets/f8d37526-3ab7-4657-930e-c217046a5bcc" />
+<img width="729" alt="SCR-20250424-talr" src="https://github.com/user-attachments/assets/6a0cd4ce-4a88-47d5-ac1a-665aea93039f" />
+
 
 ### 方法步骤:
 
